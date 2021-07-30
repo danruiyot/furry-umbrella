@@ -1,0 +1,32 @@
+@model IEnumerable<MyQuiz.Models.Results>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Past Results</h1>
+
+<table class="table tabe-sm table-border table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.result)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateTimes)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.result)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dateTimes)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

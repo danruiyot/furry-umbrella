@@ -1,0 +1,1694 @@
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/appsettings.Development.json
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/appsettings.json
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.exe
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.deps.json
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.runtimeconfig.json
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.runtimeconfig.dev.json
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ref/MyQuiz.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.pdb
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/mscorlib.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/netstandard.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.AppContext.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Buffers.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Collections.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ComponentModel.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Configuration.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Console.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Data.Common.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Data.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.DiagnosticSource.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Drawing.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Globalization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.Compression.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Linq.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Memory.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Http.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Mail.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Ping.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Requests.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Security.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Numerics.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ObjectModel.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Claims.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Principal.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Text.Json.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Transactions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.ValueTuple.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Web.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Windows.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/refs/WindowsBase.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.Views.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/MyQuiz.Views.pdb
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Humanizer.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.Views.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/System.Composition.Convention.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/System.Composition.Hosting.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/System.Composition.Runtime.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/System.Composition.TypedParts.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/Projects/Quize/src/Quize/Quize/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.AssemblyInfoInputs.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.AssemblyInfo.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.csproj.CoreCompileInputs.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.Manifest.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.xml
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/scopedcss/bundle/MyQuiz.styles.css
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.TagHelpers.input.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.TagHelpers.output.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.RazorCoreGenerate.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/Demo/Index.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/Home/_QuestionPartialView.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cache
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cs
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.Views.pdb
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.csproj.CopyComplete
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.dll
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/ref/MyQuiz.dll
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.pdb
+D:/Projects/Quize/src/Quize/Quize/obj/Debug/net5.0/MyQuiz.genruntimeconfig.cache
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/appsettings.Development.json
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/appsettings.json
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.exe
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.deps.json
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.runtimeconfig.json
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.runtimeconfig.dev.json
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ref/MyQuiz.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.pdb
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/mscorlib.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/netstandard.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.AppContext.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Buffers.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Configuration.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Console.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.Common.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.DiagnosticSource.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Drawing.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Memory.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Http.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Mail.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Ping.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Requests.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Security.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Numerics.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ObjectModel.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Claims.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Principal.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Json.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Transactions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ValueTuple.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Web.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Windows.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/refs/WindowsBase.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.Views.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.Views.pdb
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Humanizer.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.Views.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Convention.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Hosting.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Runtime.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.TypedParts.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/Projects/Quiz/src/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csprojAssemblyReference.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.AssemblyInfoInputs.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.AssemblyInfo.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csproj.CoreCompileInputs.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.Manifest.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.xml
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/scopedcss/bundle/MyQuiz.styles.css
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.TagHelpers.input.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.TagHelpers.output.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorCoreGenerate.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Demo/Index.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/_QuestionPartialView.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cache
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cs
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.Views.pdb
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csproj.CopyComplete
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.dll
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/ref/MyQuiz.dll
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.pdb
+D:/Projects/Quiz/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.genruntimeconfig.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/appsettings.json
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.exe
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.deps.json
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.runtimeconfig.json
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.runtimeconfig.dev.json
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ref/MyQuiz.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.pdb
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/mscorlib.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/netstandard.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.AppContext.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Buffers.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Configuration.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Console.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.Common.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Drawing.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Memory.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Http.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Mail.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Ping.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Requests.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Security.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Numerics.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ObjectModel.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Claims.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Principal.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Json.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Transactions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.ValueTuple.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Web.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Windows.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/refs/WindowsBase.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.Views.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.Views.pdb
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.Views.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csprojAssemblyReference.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.AssemblyInfoInputs.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.AssemblyInfo.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csproj.CoreCompileInputs.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.Manifest.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.xml
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/scopedcss/bundle/MyQuiz.styles.css
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.TagHelpers.input.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.TagHelpers.output.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorCoreGenerate.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Demo/Index.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/_QuestionPartialView.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cache
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cs
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.Views.pdb
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csproj.CopyComplete
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/ref/MyQuiz.dll
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.pdb
+C:/Users/Azhar/Desktop/Care 2 Tech Solutions/Classes/Ishan/src/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.genruntimeconfig.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/appsettings.Development.json
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/appsettings.json
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.deps.json
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.runtimeconfig.json
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.runtimeconfig.dev.json
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ref/MyQuiz.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/mscorlib.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/netstandard.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.AppContext.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Buffers.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Configuration.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Console.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.Common.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Data.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Drawing.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Memory.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Http.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Security.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Numerics.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.Json.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Transactions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Web.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Windows.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/refs/WindowsBase.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.Views.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/MyQuiz.Views.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Humanizer.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.Views.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ReflectionIT.Mvc.Paging.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csprojAssemblyReference.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.AssemblyInfoInputs.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.AssemblyInfo.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csproj.CoreCompileInputs.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.MvcApplicationPartsAssemblyInfo.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorAssemblyInfo.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.Manifest.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/staticwebassets/MyQuiz.StaticWebAssets.xml
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/scopedcss/bundle/MyQuiz.styles.css
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.TagHelpers.input.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.TagHelpers.output.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorCoreGenerate.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Demo/Index.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/Submit.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/_QuestionPartialView.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.RazorTargetAssemblyInfo.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.Views.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.csproj.CopyComplete
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/ref/MyQuiz.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/MyQuiz.genruntimeconfig.cache
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Home/PastResults.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Questions/Create.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Questions/Delete.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Questions/Details.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Questions/Edit.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Questions/Index.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Results/Create.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Results/Delete.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Results/Details.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Results/Edit.cshtml.g.cs
+/home/danruiyot/Documents/gigs/kim/asp/Quiz/Quiz/obj/Debug/net5.0/Razor/Views/Results/Index.cshtml.g.cs

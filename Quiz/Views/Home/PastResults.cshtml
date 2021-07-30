@@ -1,0 +1,23 @@
+@* @model MyQuiz.Models.Results
+@{
+    ViewData["Title"] = "Past Results";
+}
+<h1> Past results</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Score</th>
+      <th scope="col">Date</th>
+  </thead>
+  <tbody>
+  	 @foreach (var item in Model.Results)
+        {
+    <tr>
+      <td> @item.result</td>
+      <td> @item.dateTimes</td>
+    </tr>
+}
+  </tbody>
+</table>
+ *@

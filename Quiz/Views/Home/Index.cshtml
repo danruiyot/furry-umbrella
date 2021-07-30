@@ -1,0 +1,100 @@
+﻿@model MyQuiz.Models.QuizVewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Knowledge Test</h1>
+</div>
+
+<div class="row">
+    <div class="m-md-4">
+
+        @foreach (var item in Model.Questions)
+        {
+            <div class="card border-primary mb-3" style="width: 60rem;">
+                <div class="card-header border-primary">
+                    <h6 class="card-title">Question No. @item.SerialNumber</h6>
+                    <p class="card-text text-break">@item.Description</p>
+                </div>
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <label>
+                                <input class="radio" type="radio" name="rdbOption" data-answer="@item.Option1" id=@item.Id value="true" />
+                                @item.Option1
+                            </label>
+                        </li>
+                        <li class="list-group-item">
+
+                            <label>
+                                <input class="radio" type="radio" data-answer="@item.Option2" name="rdbOption" id=@item.Id value="false" />
+                                @item.Option2
+                            </label>
+
+                        </li>
+                        <li class="list-group-item">
+                            <label>
+                                <input class="radio" type="radio" data-answer="@item.Option3" name="rdbOption" id=@item.Id value="false" />
+                                @item.Option3
+                            </label>
+                        </li>
+                        <li class="list-group-item">
+                            <label>
+                                <input class="radio" type="radio" data-answer="@item.Option4" name="rdbOption" id=@item.Id value="false" />
+                                @item.Option4
+                            </label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card-footer border-primary">
+
+                    @{
+                        var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+                        var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+                        var submittDisabled = !Model.HasNextPage ? "" : "disabled";
+                    }
+
+                    
+
+<br>                      
+<br>                      
+                    <form asp-action="Answers" >
+                        <input type="text" hidden="" name="question_id" id="" value="@item.Id">
+                        <input type="text" hidden="" name="answer" id="answer">
+                        <input type="text" hidden="" name="next" id="next" value="@(Model.PageIndex + 1)">
+                        <input type="text" hidden="" name="correctANser" id="" value="@item.Answer">
+                    <a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex - 1)"
+                       class="btn btn-primary @prevDisabled">Previous</a>
+                       <button type="submit" id="submit_button" class="btn btn-primary">Next</button>
+                       </form>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            if ($("#next").val() >10) {
+                $("#submit").html("Submit");
+            }
+		$('#qustion_id').val($("#question").data("qid"));
+            $('.radio').change(function () {
+                console.log("changed");
+                if( $(this).is(":checked") ){
+                    
+                    console.log($(this).data("answer"));
+                    
+                    $('#answer').val($(this).data("answer"));
+                    
+                }
+            })
+
+        });
+
+
+    </script>
+
+}

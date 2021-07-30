@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Answers Submitted";
+}
+@using Microsoft.AspNetCore.Http
+
+<h1>@ViewData["Title"]</h1>
+
+<p><b>Here is your results</b></p>
+<p>@Context.Session.GetString("correct_answers")</p>
+<p>@Context.Session.GetString("message")</p>
+<p>
+<a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Index">Home page</a>
+<a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="PastResults">PastResults</a>
+	</p>

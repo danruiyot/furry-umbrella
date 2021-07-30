@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MyQuiz.Models.QuestionViewModel>
+
+<div class="row">
+    <div class="m-md-4">
+        @foreach (var item in Model)
+        {
+            <div class="form-group">
+                <h4>@item.Description</h4>
+
+                <div class="form-check">
+                    <label class="form-check-label">
+                        @Html.RadioButtonFor(m => item.SelectedOption, item.Id, new { @id = item.Id, @class = "form-check-input" })
+                        @item.Option1
+                    </label>
+                </div>
+                <div class="form-check">
+                    <label class="form-check-label">
+                        @Html.RadioButtonFor(m => item.SelectedOption, item.Id, new { @id = item.Id, @class = "form-check-input" })
+                        @item.Option2
+                    </label>
+
+                </div>
+                <div class="form-check">
+                    <label class="form-check-label">
+                        @Html.RadioButtonFor(m => item.SelectedOption, item.Id, new { @id = item.Id, @class = "form-check-input" })
+                        @item.Option3
+                    </label>
+                </div>
+                <div class="form-check">
+                    <label class="form-check-label">
+                        @Html.RadioButtonFor(m => item.SelectedOption, item.Id, new { @id = item.Id, @class = "form-check-input" })
+                        @item.Option4
+                    </label>
+                </div>
+            </div>
+        }
+    </div>
+</div>
